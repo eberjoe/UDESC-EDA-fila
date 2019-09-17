@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1568760647 source:c:\users\udesc\desktop\udesc-eda-fila\filadoida\fila.c
-	"fila.h"
-	<stdlib.h>
-	<stdio.h>
-
-1568760555 c:\users\udesc\desktop\udesc-eda-fila\filadoida\fila.h
-
