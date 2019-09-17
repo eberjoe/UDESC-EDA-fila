@@ -4,6 +4,7 @@
 
 ### C ###
 # Prerequisites
+*.cbp
 *.depend
 *.d
 
