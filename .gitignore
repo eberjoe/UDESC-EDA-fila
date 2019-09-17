@@ -4,6 +4,7 @@
 
 ### C ###
 # Prerequisites
+*.depend
 *.d
 
 # Object files
